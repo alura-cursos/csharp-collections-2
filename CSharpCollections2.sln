@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2.1-ArraysMultidimensionai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A2.2-JaggedArrays", "A2.2-JaggedArrays\A2.2-JaggedArrays.csproj", "{A9ECC666-E8E3-408D-88B6-7135E07FD68C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula3", "Aula3", "{A32109BF-F1AF-4129-A4E5-D20DE998C588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A3.1-ConsultandoCollections", "A3.1-ConsultandoCollections\A3.1-ConsultandoCollections.csproj", "{A55E08C2-F246-49C1-8D4F-797C652E0FDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,10 @@ Global
 		{A9ECC666-E8E3-408D-88B6-7135E07FD68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9ECC666-E8E3-408D-88B6-7135E07FD68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9ECC666-E8E3-408D-88B6-7135E07FD68C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A55E08C2-F246-49C1-8D4F-797C652E0FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A55E08C2-F246-49C1-8D4F-797C652E0FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A55E08C2-F246-49C1-8D4F-797C652E0FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A55E08C2-F246-49C1-8D4F-797C652E0FDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +61,7 @@ Global
 		{BCDA3665-D2B8-48EB-ACED-2A90162D7A70} = {B0535F17-201B-4065-8E08-741F61BDBEDE}
 		{BF047A9E-5CA3-4793-9253-C330A998D166} = {95E42166-2FFF-4765-92ED-43C0903B7715}
 		{A9ECC666-E8E3-408D-88B6-7135E07FD68C} = {95E42166-2FFF-4765-92ED-43C0903B7715}
+		{A55E08C2-F246-49C1-8D4F-797C652E0FDE} = {A32109BF-F1AF-4129-A4E5-D20DE998C588}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3412C4C7-87E1-4020-AD51-4C07B98A6F42}
